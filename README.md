@@ -1,1 +1,1 @@
-Personal blog of Bernd Olaf Salewski
+my dev blog, reachable under https://berndsalewski.github.io
